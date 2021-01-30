@@ -1,6 +1,7 @@
 # Bike Sharing Project
 
 Student project of course "Introduction to Data Science"
+
 The goal of this project was to apply attribute relevance analysis techniques and classification algorithms on bike share rental data.
 
 
